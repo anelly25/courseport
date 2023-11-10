@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 import { Course } from "./Data";
 import { columns } from "./Columns";
 import { DataTable } from "./DataTable"
-import { SelectedPlaceHolder } from "./SelectedPlaceholder";
+import  SelectedPlaceHolder  from "./SelectedPlaceholder";
 
 function MainContainer() {
   const {
